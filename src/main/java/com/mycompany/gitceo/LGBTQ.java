@@ -11,5 +11,6 @@ package com.mycompany.gitceo;
 public class LGBTQ {
     
     private boolean sex;
+    private int numeroMogli;
     
 }
