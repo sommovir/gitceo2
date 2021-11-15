@@ -11,7 +11,5 @@ package com.mycompany.gitceo;
 public class LGBTQ {
     
     private boolean sex;
-    private boolean gay;
-    private int malattie_veneree_count;
     
 }
