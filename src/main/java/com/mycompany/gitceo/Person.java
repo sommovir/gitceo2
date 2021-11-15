@@ -12,10 +12,5 @@ public class Person {
     
     private String name;
     private String cognome;
-    private int x;
-
-    private Person(){
-
-    }
     
 }
