@@ -11,5 +11,6 @@ package com.mycompany.gitceo;
 public class Person {
     
     private String name;
+    private String cognomeBoh;
     
 }
