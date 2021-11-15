@@ -10,7 +10,7 @@ package com.mycompany.gitceo;
  */
 public class LGBTQ {
     
-    private boolean sex;
+    private boolean sexixosos;
     private int numeroMogli;
     
 }
