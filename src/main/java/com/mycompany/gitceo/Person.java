@@ -12,6 +12,7 @@ public class Person {
     
     private String name;
     private String cognome;
+    private int anni;
     
     public String getName(){
         return this.name;
@@ -24,5 +25,7 @@ public class Person {
     public String getCognome(){
         return this.cognome;
     }
-    
+    public int getAge(){
+        return this.anni;
+    }
 }
