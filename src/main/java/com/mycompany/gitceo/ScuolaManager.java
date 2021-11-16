@@ -14,4 +14,8 @@ public class ScuolaManager {
         System.out.println("fai cose");
     }
     
+    private void close(){
+        //TODO
+    }
+
 }
