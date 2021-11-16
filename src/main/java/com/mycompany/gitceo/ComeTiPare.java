@@ -6,11 +6,8 @@ package com.mycompany.gitceo;
 
 /**
  *
- * @author loren
+ * @author feder
  */
-public class Coso {
-    
-    private int ore;
-    private int x;
-    private String y = "chi sei?";
+public class ComeTiPare {
+    private int ciao;
 }
