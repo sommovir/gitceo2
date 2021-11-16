@@ -14,8 +14,14 @@ public class ScuolaManager {
         System.out.println("fai cose");
     }
 
+    public String name(){
+        return "mario";
+    }
     public int size(){
-        return 2929;
+        return 29546;
+    }
+    public int anni(){
+        return 18;
     }
     
     private void close(){
