@@ -20,5 +20,9 @@ public class Person {
     public void init(){
         System.out.println("ciao");
     }
+
+    public String getCognome(){
+        return this.cognome;
+    }
     
 }
