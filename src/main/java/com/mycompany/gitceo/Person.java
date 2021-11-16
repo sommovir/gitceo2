@@ -22,7 +22,9 @@ public class Person {
         System.out.println("ciao");
     }
 
-    //GODO
+    public String getCognome(){
+        return this.cognome;
+    }
     public int getAge(){
         return this.age;
     }
