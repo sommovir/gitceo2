@@ -20,5 +20,8 @@ public class ScuolaManager {
     public int size(){
         return 29546;
     }
+    public int anni(){
+        return 18;
+    }
     
 }
