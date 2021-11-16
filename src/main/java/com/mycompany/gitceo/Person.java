@@ -26,6 +26,6 @@ public class Person {
         return this.cognome;
     }
     public int getAge(){
-
+        return this.age;
     }
 }
