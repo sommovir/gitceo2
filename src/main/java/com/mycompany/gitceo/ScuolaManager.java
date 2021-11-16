@@ -22,11 +22,13 @@ public class ScuolaManager {
     }
     public int anni(){
         return 18;
+
     }
     
    private void close(){
        //TODO
    }
-   //sono qui
+      //sono qui
+
 
 }
