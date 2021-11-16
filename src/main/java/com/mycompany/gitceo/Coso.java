@@ -12,4 +12,5 @@ public class Coso {
     
     private int ore;
     private int x;
+    private string = "chi sei?";
 }
