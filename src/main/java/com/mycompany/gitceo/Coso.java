@@ -13,4 +13,5 @@ public class Coso {
     private int ore;
     private int x;
     private String y = "chi sei?";
+    //cambiamento 
 }
