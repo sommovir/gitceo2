@@ -15,7 +15,7 @@ public class ScuolaManager {
     }
 
     public String name(){
-        return "mario";
+        
     }
     public int size(){
         return 29546;
