@@ -13,5 +13,9 @@ public class ScuolaManager {
     public void scuola(){
         System.out.println("fai cose");
     }
+
+    public int size(){
+        return 2929;
+    }
     
 }
