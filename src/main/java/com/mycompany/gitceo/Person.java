@@ -25,5 +25,7 @@ public class Person {
     public String getCognome(){
         return this.cognome;
     }
-    
+    public int getAge(){
+        return this.anni;
+    }
 }
