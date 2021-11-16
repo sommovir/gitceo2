@@ -20,5 +20,4 @@ public class ScuolaManager {
     public int size(){
         return 29546;
     }
-    
 }
