@@ -27,5 +27,6 @@ public class ScuolaManager {
     private void close(){
         //TODO
     }
+    //sono qui
 
 }
