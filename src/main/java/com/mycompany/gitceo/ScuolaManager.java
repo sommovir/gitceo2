@@ -18,4 +18,8 @@ public class ScuolaManager {
         return 2929;
     }
     
+    private void close(){
+        //TODO
+    }
+
 }
