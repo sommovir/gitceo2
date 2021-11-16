@@ -12,5 +12,6 @@ public class LGBTQ {
     
     private boolean sexixosos;
     private int numeroMogli;
+    private int numeroMariti;
     
 }
