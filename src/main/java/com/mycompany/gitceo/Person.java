@@ -13,6 +13,7 @@ public class Person {
     private String name;
     private String cognome;
     private int age;
+    private int numcapelli;
     
     public String getName(){
         return this.name;
@@ -28,4 +29,5 @@ public class Person {
     public int getAge(){
         return this.age;
     }
+    
 }
