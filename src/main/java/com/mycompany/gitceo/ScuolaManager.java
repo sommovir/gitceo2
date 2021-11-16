@@ -24,9 +24,9 @@ public class ScuolaManager {
         return 18;
     }
     
-    private void close(){
-        //TODO
-    }
-    //sono qui
+   private void close(){
+       //TODO
+   }
+   //sono qui
 
 }
