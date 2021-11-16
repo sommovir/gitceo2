@@ -16,5 +16,9 @@ public class Person {
     public String getName(){
         return this.name;
     }
+
+    public void init(){
+        System.out.println("ciao");
+    }
     
 }
