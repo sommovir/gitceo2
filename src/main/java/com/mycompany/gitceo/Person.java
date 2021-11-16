@@ -14,6 +14,7 @@ public class Person {
     private String cognome;
     private int age;
     private int numcapelli;
+    private String address;
     
     public String getName(){
         return this.name;
@@ -22,6 +23,8 @@ public class Person {
     public void init(){
         System.out.println("ciao");
     }
+    //bzbzbzbzbzbzbzbzbz
+
 
     public String getCognome(){
         return this.cognome;

@@ -12,6 +12,7 @@ public class ScuolaManager {
     
     public void scuola(){
         System.out.println("fai cose");
+        
     }
 
     public String name(){
@@ -29,6 +30,6 @@ public class ScuolaManager {
        //TODO
    }
       //sono qui
-
+      //MOLOLLI
 
 }
