@@ -11,4 +11,5 @@ package com.mycompany.gitceo;
 public class Coso {
     
     private int ore;
+    private int x;
 }
