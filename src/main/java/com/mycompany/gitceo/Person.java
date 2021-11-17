@@ -36,5 +36,9 @@ public class Person {
     public String getAddess(){
         return this.address;
     }
+
+    public void setAddress(String ad){
+        this.address = ad;
+    }
     
 }
