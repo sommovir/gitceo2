@@ -11,4 +11,5 @@ package com.mycompany.gitceo;
 public class ComeTiPare {
     private int ciao;
     private float y;
+    private int x;
 }
