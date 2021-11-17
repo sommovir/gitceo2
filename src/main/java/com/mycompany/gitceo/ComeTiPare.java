@@ -12,4 +12,5 @@ public class ComeTiPare {
     private int ciao;
     private float y;
     private int x;
+    private int z;
 }
