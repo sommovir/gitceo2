@@ -13,6 +13,7 @@ public class Person {
     private String name;
     private String cognome;    
     private int age;
+    private String mozzarella;
     private int numcapelli;
     private String address;
     private int numeroVaccini;
