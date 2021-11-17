@@ -23,7 +23,6 @@ public class Person {
     public void init(){
         System.out.println("ciao");
     }
-    //bzbzbzbzbzbzbzbzbz
 
 
     public String getCognome(){
