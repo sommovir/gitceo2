@@ -11,8 +11,12 @@ package com.mycompany.gitceo;
 public class Person {
 
     private String name;
-    private String cognome;    
+    private String cognome; 
+    private String orientamento;   
     private int age;
+    private String mozzarella;
+    private String pomodoro;
+    private String basilico;
     private int numcapelli;
     private String address;
     private int numeroVaccini;
