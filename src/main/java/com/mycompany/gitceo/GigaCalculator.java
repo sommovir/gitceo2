@@ -8,13 +8,10 @@ package com.mycompany.gitceo;
  *
  * @author sommovir
  */
-public class Animale {
- 
-    private String name;
-    private String specie;
-    private int minchia;
+public class GigaCalculator {
     
-    public static void main(String[] args) {
-        System.out.println(""+ (3/2));
+    public static int sum(int a, int b){
+        return a+b;
     }
+    
 }
