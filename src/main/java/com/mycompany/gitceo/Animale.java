@@ -12,4 +12,5 @@ public class Animale {
  
     private String name;
     private String specie;
+    private int minchia;
 }
