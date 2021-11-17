@@ -13,8 +13,13 @@ public class Person {
     private String name;
     private String cognome;    
     private int age;
+    private int numcapelli;
+    private String address;
+    private int numeroVaccini;
     
-    viva il default
+    public String getName(){
+        return this.name;
+    }
 
     public void init(){
         System.out.println("ciao");
