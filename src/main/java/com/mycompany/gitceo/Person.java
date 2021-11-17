@@ -15,7 +15,6 @@ public class Person {
     private int age;
     private int numcapelli;
     private String address;
-    private int numeroVaccini;
     
     public String getName(){
         return this.name;
