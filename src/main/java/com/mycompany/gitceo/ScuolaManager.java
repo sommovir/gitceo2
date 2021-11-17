@@ -22,12 +22,12 @@ public class ScuolaManager {
         return 29546;
     }
     public int anni(){
-        return 18;
+        return 33;
 
     }
     
    private void close(){
-       //TODO
+       System.out.println("ciao");
    }
       //sono qui
       //MOLOLLI
