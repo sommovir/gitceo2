@@ -9,12 +9,13 @@ package com.mycompany.gitceo;
  * @author aless
  */
 public class Person {
-    
+
     private String name;
-    private String cognome;
+    private String cognome;    
     private int age;
     private int numcapelli;
     private String address;
+    private int numeroVaccini;
     
     public String getName(){
         return this.name;
@@ -26,8 +27,11 @@ public class Person {
 
 
     public String getCognome(){
+
+
         return this.cognome;
     }
+    
     public int getAge(){
         return this.age;
     }
