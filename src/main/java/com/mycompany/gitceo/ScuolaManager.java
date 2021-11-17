@@ -25,6 +25,8 @@ public class ScuolaManager {
         return 33;
 
     }
+
+    //RESETTA QUI
     
    private void close(){
        System.out.println("ciao");
