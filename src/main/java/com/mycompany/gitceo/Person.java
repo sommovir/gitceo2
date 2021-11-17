@@ -14,6 +14,7 @@ public class Person {
     private String cognome;    
     private int age;
     private String mozzarella;
+    private String pomodoro;
     private int numcapelli;
     private String address;
     private int numeroVaccini;
