@@ -32,5 +32,9 @@ public class Person {
     public int getAge(){
         return this.age;
     }
+
+    public String getAddess(){
+        return this.address;
+    }
     
 }
