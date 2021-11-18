@@ -22,7 +22,7 @@ public class GigaCalculator {
      */
     public static int getModules(String message){
         if(message !=null ||  !message.isEmpty()){
-            String[] split = message.split(":");
+            String[] split=message.split(":");
             return split.length;
         }
         return -1;
