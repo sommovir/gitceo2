@@ -11,7 +11,7 @@ package com.mycompany.gitceo;
 public class LGBTQ {
     
     private boolean sexixosos;
-    private int numeroMogli;
+    private int numeroMogli = -1;
     private int numeroMariti;
     private int genere;
     private String nome = "alessio pecilli sesso matto";

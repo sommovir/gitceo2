@@ -10,11 +10,10 @@ package com.mycompany.gitceo;
  */
 public class Coso {
     
-    private int ore;
     private int x;
     private String y = "la y è una bella consonante";
     private int sium = 1;
 
-    //RIBASAMI TUTTO
+    //qui si faranno cose
     
 }
