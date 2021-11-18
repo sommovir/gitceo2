@@ -10,7 +10,6 @@ package com.mycompany.gitceo;
  */
 public class ComeTiPare {
     private int ciao = 22;
-    private float y;
     private int h = 2;
 
 }
