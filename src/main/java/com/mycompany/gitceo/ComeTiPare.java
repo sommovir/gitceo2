@@ -12,4 +12,8 @@ public class ComeTiPare {
     private int ciao = 22;
     private float y;
 
+    public void faccialei(){
+        
+    }
+
 }
