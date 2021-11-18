@@ -56,6 +56,7 @@ public class BugSolverTest {
         int m3 = GigaCalculator.getModules("minchi:niggi:polli");
         int m4 = GigaCalculator.getModules("");
         int m5 = GigaCalculator.getModules(null);
+        //molto bene
         
         assertEquals(2, m1, "     [Test 2][FAIL]   ERRORE ENORME DEVASTANTE MAI VISTO");
         assertEquals(1, m2, "     [Test 2][FAIL]   ERRORE ENORME DEVASTANTE MAI VISTO");

@@ -21,7 +21,7 @@ public class GigaCalculator {
      * il numero dei moduli
      */
     public static int getModules(String message){
-        if(message !=null && !message.isEmpty()){
+        if(message !=null &&  !message.isEmpty()){
             String[] split = message.split(":");
             return split.length;
         }
