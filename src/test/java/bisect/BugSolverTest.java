@@ -28,7 +28,7 @@ public class BugSolverTest {
 
     @AfterAll
     public static void tearDownClass() {
-        System.out.println("OK");
+        System.out.println("OK!");
     }
 
     @BeforeEach

@@ -14,6 +14,5 @@ public class Coso {
     private String y = "la y è una bella consonante, anche la z";
     private int sium = 2;
 
-    //qui si faranno cose
     
 }
