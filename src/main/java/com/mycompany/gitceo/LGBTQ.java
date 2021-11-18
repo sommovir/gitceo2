@@ -12,7 +12,7 @@ public class LGBTQ {
     
     private boolean sexixosos;
     private int numeroMogli;
-    private int numeroMariti;
+    private int numeroMariti=1;
     private int genere;
     private String nome = "alessio pecilli sesso matto";
     
