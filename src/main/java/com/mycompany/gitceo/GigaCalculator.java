@@ -25,7 +25,11 @@ public class GigaCalculator {
             String[] split = message.split(":");
             return split.length;
         }
-        return -1;
+            return -1;
+    }
+
+    public static int multiply(int a, int b){
+        return a*b;
     }
     
 }
