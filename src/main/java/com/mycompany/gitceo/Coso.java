@@ -11,7 +11,7 @@ package com.mycompany.gitceo;
 public class Coso {
     
     private int x;
-    private String y = "la y è una bella consonante";
+    private String y = "la y è una bella consonante, anche la z";
     private int sium = 1;
 
     //qui si faranno cose

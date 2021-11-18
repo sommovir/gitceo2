@@ -13,7 +13,7 @@ public class Person {
     private String name;
     private String cognome; 
     private String orientamento;   
-    private int age;
+    private int age = 0;
     private String mozzarella;
     private String pomodoro;
     private String basilico;
