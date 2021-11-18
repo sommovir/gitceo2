@@ -14,6 +14,6 @@ public class LGBTQ {
     private int numeroMogli = -1;
     private int numeroMariti;
     private int genere;
-    private String nome = "alessio pecilli sesso matto";
+    private String nome = "alessio cepilli è bel direttore";
     
 }
