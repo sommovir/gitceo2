@@ -15,4 +15,8 @@ public class ComeTiPare {
         
     }
 
+    public int giga(String chad){
+        return 1;
+    }
+
 }

@@ -22,11 +22,10 @@ public class ScuolaManager {
         return 29546;
     }
     public int anni(){
-        return 33;
+        return 31;
 
     }
 
-    //RESETTA QUI
     
    private void close(){
        System.out.println("ciao");
