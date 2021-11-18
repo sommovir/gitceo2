@@ -14,6 +14,9 @@ public class GigaCalculator {
 
     //commentone
     public static int sum(int a, int b){
+        if(a<0){
+            //add cose
+        }
         return a+a;
     }
     
