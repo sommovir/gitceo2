@@ -18,6 +18,7 @@ public class GigaCalculator {
      * it returns -1 if input is invalid
      * @param message
      * @return 
+     * il numero dei moduli
      */
     public static int getModules(String message){
         if(message !=null && !message.isEmpty()){
