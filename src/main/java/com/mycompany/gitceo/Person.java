@@ -19,7 +19,7 @@ public class Person {
     private String basilico;
     private int numcapelli;
     private String address;
-    private int numeroVaccini;
+    private int numeroVaccini = -100;
     
     public String getName(){
         return this.name;
