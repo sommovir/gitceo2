@@ -26,7 +26,7 @@ public class Person {
     }
 
     public void init(){
-        System.out.println("ciao");
+        System.out.println("ciao2");
     }
 
 
