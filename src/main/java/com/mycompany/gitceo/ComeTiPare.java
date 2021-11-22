@@ -9,7 +9,7 @@ package com.mycompany.gitceo;
  * @author feder
  */
 public class ComeTiPare {
-    private int ciao = 22;
+    private int ciao = 2002;
     private float y;
     private String ok = "ok2";
 
