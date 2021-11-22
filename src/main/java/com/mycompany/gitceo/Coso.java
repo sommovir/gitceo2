@@ -10,9 +10,9 @@ package com.mycompany.gitceo;
  */
 public class Coso {
     
-    private int ore;
+    private int oreop;
     private int x;
-    private String y = "la y è una bella consonante";
+    private String y = "la h è una bella consonante";
     private int sium = 2;
 
     //RIBASAMI TUTTO
