@@ -12,7 +12,7 @@ public class LGBTQ {
     
     private boolean sexixosos;
     private int numeroMogli;
-    private int numeroMariti;
+    private int numeroMaritiGay;
     private String nome;
     
 }
