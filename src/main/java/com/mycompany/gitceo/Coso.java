@@ -12,7 +12,7 @@ public class Coso {
     
     private int ore;
     private int x;
-    private String y = "la y è una bella consonante";
+    private String y = "la y è una bella consonante, alessio no";
     int z = 222;
 
     //RIBASAMI TUTTO
