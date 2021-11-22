@@ -15,5 +15,6 @@ public class LGBTQ {
     private int numeroMariti;
     private int genere;
     private String nome = "alessio pecilli sesso matto";
+    int si;
     
 }
