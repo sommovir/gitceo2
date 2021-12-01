@@ -12,5 +12,6 @@ package com.mycompany.gitceo;
 public class CherryTest {
     public static void main(String[] args) {
         int x = 3;
+        int xv = 3;
     }
 }
