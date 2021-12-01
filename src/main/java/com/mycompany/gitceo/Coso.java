@@ -11,9 +11,9 @@ package com.mycompany.gitceo;
 public class Coso {
     
     private int ore;
-    private int x;
-    private String y = "la y è una bella consonante";
-    private int sium = 20;
+    private int x = 1;
+    private String y = "la z è una bella consonante";
+    private int sium = 9000;
 
     //RIBASAMI TUTTO
     
