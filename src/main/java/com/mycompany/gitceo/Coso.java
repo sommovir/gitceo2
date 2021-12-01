@@ -13,7 +13,7 @@ public class Coso {
     private int ore;
     private int x;
     private String y = "la y è una bella consonante";
-    private int sium = 15;
+    private int sium = 20;
 
     //RIBASAMI TUTTO
     
