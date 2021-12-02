@@ -15,6 +15,8 @@ public class Coso {
     private int x = 0;
     private String y = "la K è una bella consonante";
 
+    //SONO NEL MASTER
+
     //RIBASAMI TUTTO
     
 }
