@@ -21,7 +21,7 @@ public class Person {
     }
 
     public void init(){
-        System.out.println("ciaaoaoao");
+        System.out.println("SONO NEL MASTER E SONO FIGHISSIMO");
     }
 
 
