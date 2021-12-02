@@ -14,6 +14,7 @@ public class Coso {
     private int x;
     private String y = "la y è una bella consonante, alessio no";
     int z = 222;
+    int MASTER = 0;
 
     //RIBASAMI TUTTO
     
