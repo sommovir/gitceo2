@@ -16,5 +16,6 @@ public class LGBTQ {
     private int genere;
     private String nome = "alessio pecilli matto";
     int si;
+    //ciaooooo
     
 }
