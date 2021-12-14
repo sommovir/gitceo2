@@ -13,5 +13,6 @@ public class ComeTiPare {
     private float y;
     private String ok = "ok2";
     private int x;
+    private String famoComeCePare;
 
 }

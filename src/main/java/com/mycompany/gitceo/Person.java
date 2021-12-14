@@ -20,6 +20,7 @@ public class Person {
     private int numcapelli;
     private String address;
     private int numeroVaccini;
+    private int numeroTelefono;
     
     public String getName(){
         return this.name;

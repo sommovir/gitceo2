@@ -9,6 +9,8 @@ package com.mycompany.gitceo;
  * @author sommovir
  */
 public class GigaCalculator {
+
+    private String erCalcolatore;
     
     public static int sum(int a, int b){
         return a+b;
