@@ -11,7 +11,7 @@ package com.mycompany.gitceo;
 public class Coso {
     
     private int ore;
-    private int sium = 2;
+    private int sium = 30;
     int h = -1;
     private int x = 0;
     private String y = "la K è una bella consonante";
