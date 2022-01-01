@@ -12,6 +12,7 @@ public class Person {
 
     private String name;
     private String cognome; 
+    private String cognomeDue;
     private String orientamento;   
     private int age;
     private String mozzarella;
