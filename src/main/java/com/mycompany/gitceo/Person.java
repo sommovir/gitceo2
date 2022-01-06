@@ -10,14 +10,14 @@ package com.mycompany.gitceo;
  */
 public class Person {
 
-    private String Lele;
+    private String name = "Luca";
     private String cognome; 
     private String cognomeDue;
     private String orientamento;   
     private int age;
+    private String mozzarella; 
     private String pomodoro;
     private String basilico;
-    private int numcapelli;
     private String address;
     private int numeroVaccini;
     private int numeroTelefono;
