@@ -10,12 +10,12 @@ package com.mycompany.gitceo;
  */
 public class Person {
 
-    private String name;
+    private String name = "Luca";
     private String cognome; 
     private String cognomeDue;
     private String orientamento;   
     private int age;
-    private String mozzarella;
+    private String mozzarella; 
     private String pomodoro;
     private String basilico;
     private String address;
