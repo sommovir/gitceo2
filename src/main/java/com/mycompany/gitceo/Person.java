@@ -10,7 +10,7 @@ package com.mycompany.gitceo;
  */
 public class Person {
 
-    private String name;
+    private String Lele;
     private String cognome; 
     private String cognomeDue;
     private String orientamento;   
