@@ -11,7 +11,7 @@ package com.mycompany.gitceo;
 public class ComeTiPare {
     private int ciao = 2002;
     private float y;
-    private String ok = "ok2";
+    private String ok = "ok3";
     private int x;
     private String famoComeCePare;
 
