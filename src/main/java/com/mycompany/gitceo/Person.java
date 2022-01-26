@@ -21,6 +21,7 @@ public class Person {
     private String address;
     private int numeroVaccini;
     private int numeroTelefono;
+    private String TUTTOSBAGLIATO;
     
     public String getName(){
         return this.name;
