@@ -14,7 +14,7 @@ public class LGBTQ {
     private int numeroMogli;
     private int numeroMariti;
     private int genere;
-    private String nome = "alessio pecilli matto";
+    private String nome = "alessio cepilli matto";
     int si;
     //ciaooooo
     
