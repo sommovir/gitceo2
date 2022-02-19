@@ -11,11 +11,11 @@ package com.mycompany.gitceo;
 public class Coso {
     
     private int ore;
-    private int sium = 30;
+    private int sium = 322;
     int h = -1;
     private int x = 0;
     private String y = "la K è una bella consonante";
-    private int zzz = 0;
+    private int zzz = 1;
 
     //SONO NEL MASTER
 
