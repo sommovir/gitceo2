@@ -15,7 +15,7 @@ public class Coso {
     int h = -1;
     private int x = 0;
     private String y = "la K è una bella consonante";
-    private int zzz = 1;
+    private int zzz = 21;
 
     //SONO NEL MASTER
 
